@@ -81,4 +81,4 @@ Para reportar problemas o solicitar nuevas características, por favor crea un i
 - Comunidad de Android
 
 ---
-Desarrollado con ❤️ por el Jesus Alexander Valeriano Cancin para el CBT02 
+Desarrollado con ❤️ por Jesus Alexander Valeriano Cancin para el CBT02 
